@@ -53,3 +53,5 @@ Four different deliverables were created in order to achieve the final result:
     ![ratings_query](https://user-images.githubusercontent.com/106561880/182266579-49f1fe87-582d-42e8-adaa-ddc6b495b9c2.png)
 
     
+*Note: Source files, excluding MovieLens Ratings data, are located in SourceData folder.  MovieLens Ratings file is too large to upload.
+Additional Note: Final output images, including final SQL queries, are in Resources folder.*
